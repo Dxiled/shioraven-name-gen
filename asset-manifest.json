@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shioraven-name-gen/static/css/main.f1f6c9e6.css",
+    "main.js": "/shioraven-name-gen/static/js/main.70cd78d4.js",
+    "static/js/453.b0a70c33.chunk.js": "/shioraven-name-gen/static/js/453.b0a70c33.chunk.js",
+    "index.html": "/shioraven-name-gen/index.html",
+    "main.f1f6c9e6.css.map": "/shioraven-name-gen/static/css/main.f1f6c9e6.css.map",
+    "main.70cd78d4.js.map": "/shioraven-name-gen/static/js/main.70cd78d4.js.map",
+    "453.b0a70c33.chunk.js.map": "/shioraven-name-gen/static/js/453.b0a70c33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1f6c9e6.css",
+    "static/js/main.70cd78d4.js"
+  ]
+}
